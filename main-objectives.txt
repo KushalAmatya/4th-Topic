@@ -1,0 +1,11 @@
+Car Renting Business
+
+1. Order
+2. Progress chart.
+3. Annual Overview
+4. Sign in/out as admin or customer
+5. Add order
+6. Delete order
+7. Car specific gallery view.
+8. Searching by Company Name or Car Model.
+9. Searching by type of Car (Casual/Luxurious/Sports/Track/Hyper)
